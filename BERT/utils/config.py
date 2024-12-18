@@ -20,7 +20,7 @@ config = Namespace(
     # Training parameters
     batch_size=256,
     learning_rate=1e-3,
-    num_epochs=5,
+    num_epochs=2,
 
     # Device settings
     use_gpu=torch.cuda.is_available(),
