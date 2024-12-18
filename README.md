@@ -5,7 +5,7 @@
 - **[Farah Faizah]** - [121450002]
 - **[Annisa Novantika]** - [121450005]
 - **[Putri Olivia Nuraeni]** - [121450009]
-- **[Kharisma Gumilang]** - [1214500]
-- **[Hartiti Fadillah]** - [1214500]
+- **[Kharisma Gumilang]** - [121450142]
+- **[Hartiti Fadillah]** - [121450031]
 
 ## Deskripsi Proyek
