@@ -1,5 +1,3 @@
-## Training Log
-
 ### Epoch 1/2
 - **Metrics:**
   - Train Loss: `1.3096`
